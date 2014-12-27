@@ -4,6 +4,8 @@
 * cURL Multi PHP Wrapper
 * 2014 Dennis Kupec
 * MIT License
+*
+* quick and dirty, i'd look away now
 */
 
 class CURL
